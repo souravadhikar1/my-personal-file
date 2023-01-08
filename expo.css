@@ -1,0 +1,203 @@
+.content{
+    height: 800px;
+    background-image: url("my-job-done/images/banner/banner2.png");
+   } 
+
+
+.content-dev{
+padding-left: 600px;
+padding-top: 200px;
+
+   }
+
+   .content-sub{
+    padding-right: 20px;
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-size: 80px;
+    
+   }
+
+.content-description{
+    font-family: 'Rubik Bubbles', cursive;
+    font-size: 15px;
+    color: #444343;
+}
+
+.primary-btn{
+margin-left: 600px;
+padding: 0 30px;
+border-radius: 5px;
+background-color: orangered;
+}
+
+.btn-description{
+    
+    color: white;
+    
+    
+}
+
+.section-middle{
+display: flex;
+gap: 70px;
+padding-top: 300px;
+padding-left: 200px;
+
+}
+
+.middle-description{
+    padding-top: 200px;
+}
+
+.middle-content{
+    font-family: 'Roboto', sans-serif;
+    font-size: 70px;
+}
+
+.middle-adult{
+
+font-family: 'Sofia Sans Condensed', sans-serif;
+font-size: 20px;
+}
+
+.middle-hub{
+padding-top: 200px;
+text-align:center ;
+font-family: 'Montserrat', sans-serif;
+font-size: 20px;
+
+}
+
+.middle-love{
+display: flex;
+gap: 100px;
+padding-left:300px;
+}
+    .love-togther{
+        font-family: 'Poppins', sans-serif;
+        font-size: 200%;
+    }
+
+.love-most{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+.laptop{
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%),url("my-job-done/images/watch.png");
+margin-top: 300px;
+margin-left: 200px;
+border-radius: 10px;
+    width: 1140px;
+    height: 300px;
+    left: 230px;
+    top: 2216.3px;
+    
+    
+}
+
+.laptop-box{
+padding-top: 10px;
+padding-left: 50px;
+font-family: 'Open Sans', sans-serif;
+font-size: 30px;
+color: white;
+
+}
+
+.btn-glaxy{
+
+margin-left: 50px;
+padding: 5px 50px;
+border-radius: 8px;
+
+}
+
+.btn-hive{
+
+    color: orangered;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    
+}
+
+.match{
+    width: 1600px;
+    height: 577px;
+    margin-top: 200px;
+    
+    background-color: black;
+    border-radius: 8px;
+    display: flex;
+    gap: 100px;
+    
+}
+
+    
+
+
+.final-title{
+
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-size: 40px;
+}
+
+.final-dis{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 10px;
+}
+.line{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
+.final-section{
+    padding-top: 20px;
+    padding-left: 100px;
+}
+
+.picture-hub{
+padding: 20px 10px;
+
+}
+
+.lost{
+
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-size: 40px;
+
+}
+
+.life{
+padding-top: 20px;
+}
+
+
+#stop{
+margin-top: 40px;
+
+}
+
+.final-step{
+    background-color: white;
+padding: 0px 40px;
+}
+
+.final-text{
+
+   color: orangered; 
+}
+
+#love{
+    border-radius: 5px;
+text-decoration-color: white;
+background-color: black;
+text-align:left;
+   padding: 30px 70px; 
+
+}
